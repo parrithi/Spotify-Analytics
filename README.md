@@ -2,7 +2,7 @@
 
 > Advanced PostgreSQL project focused on business analytics, SQL optimization, and database performance engineering using real-world Spotify streaming data.
 
-![Banner](images/spotify-banner.png)
+![Banner](https://github.com/parrithi/Spotify-Analytics/blob/main/Spotify.png)
 
 ---
 
