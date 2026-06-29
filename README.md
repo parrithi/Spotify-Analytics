@@ -134,13 +134,14 @@ This demonstrates how indexing drastically reduces execution time by avoiding ex
 
 0.154 ms
 
-![Before](https://github.com/parrithi/Spotify-Analytics/blob/main/Query_Before_Index.png)
+![EXPLAIN Before Index](https://github.com/parrithi/Spotify-Analytics/blob/main/Query_Before_Index.png)
 
 ---
 
 ## Query Plan (Before)
 
-📷 Insert Graphical Plan Here
+![EXPLAIN Before Index](https://github.com/parrithi/Spotify-Analytics/blob/main/Analysis_Before_index.png)
+![EXPLAIN Before Index](https://github.com/parrithi/Spotify-Analytics/blob/main/Graphical.png)
 
 ---
 
@@ -163,13 +164,15 @@ Planning Time
 
 2.055 ms
 
-📷 Insert Screenshot Here
+![EXPLAIN After Index](https://github.com/parrithi/Spotify-Analytics/blob/main/Query_After_Index.png)
 
 ---
 
 ## Query Plan (After)
 
-📷 Insert Graphical Plan Here
+![EXPLAIN After Index](https://github.com/parrithi/Spotify-Analytics/blob/main/Analysis_Index.png)
+![EXPLAIN After Index](https://github.com/parrithi/Spotify-Analytics/blob/main/Graphical_Index.png)
+
 
 ---
 
